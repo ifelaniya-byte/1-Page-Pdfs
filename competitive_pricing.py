@@ -84,12 +84,12 @@ def competitive_price(title: str, category: str) -> float:
     for keyword, delta in KEYWORD_ADJUSTMENTS.items():
         if keyword in text:
             adjustment += delta
-    price = base + adjustment
-    # Keep pricing within realistic, competitive ranges.
-    if price < 9.99:
-        return 9.99
-    if price > 29.99:
-        return 29.99
+    price = base + adjustment - 12.99
+    # Keep pricing within a low-friction, competitive range.
+    if price < 1.99:
+        return 1.99
+    if price > 26.99:
+        return 26.99
     return round(price, 2)
 
 

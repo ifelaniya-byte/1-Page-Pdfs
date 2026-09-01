@@ -1,101 +1,101 @@
 number,category,product,price
-1,Restaurant & Food Service,Opening Checklist,17.99
-2,Restaurant & Food Service,Closing Planner,17.99
-3,Restaurant & Food Service,Inventory Review,17.99
-4,Restaurant & Food Service,Prep Template,17.99
-5,Restaurant & Food Service,Food Safety Checklist,17.99
-6,Restaurant & Food Service,Line Check Planner,17.99
-7,Restaurant & Food Service,Shift Review,17.99
-8,Restaurant & Food Service,Cash Flow Template,17.99
-9,Restaurant & Food Service,Waste Checklist,17.99
-10,Restaurant & Food Service,Service Recovery Planner,17.99
-11,Restaurant & Food Service,Vendor Review,17.99
-12,Restaurant & Food Service,Menu Template,17.99
-13,Restaurant & Food Service,Staffing Checklist,17.99
-14,Restaurant & Food Service,Kitchen Planner,17.99
-15,Restaurant & Food Service,Compliance Review,17.99
-16,Restaurant & Food Service,Order Flow Template,17.99
-17,Restaurant & Food Service,Drive-Thru Checklist,17.99
-18,Restaurant & Food Service,Catering Planner,17.99
-19,Restaurant & Food Service,Bar Review,17.99
-20,Restaurant & Food Service,Breakfast Template,17.99
-21,Restaurant & Food Service,Lunch Checklist,17.99
-22,Restaurant & Food Service,Dinner Planner,17.99
-23,Restaurant & Food Service,Delivery Review,17.99
-24,Restaurant & Food Service,Beverage Template,17.99
-25,Restaurant & Food Service,Franchise Checklist,17.99
-26,Restaurant & Food Service,Seasonal Planner,17.99
-27,Restaurant & Food Service,Holiday Review,17.99
-28,Restaurant & Food Service,Opening Template,17.99
-29,Restaurant & Food Service,Closing Checklist,17.99
-30,Restaurant & Food Service,Inventory Planner,17.99
-31,Restaurant & Food Service,Prep Review,17.99
-32,Restaurant & Food Service,Food Safety Template,17.99
-33,Restaurant & Food Service,Line Check Checklist,17.99
-34,Restaurant & Food Service,Shift Planner,17.99
-35,Restaurant & Food Service,Cash Flow Review,17.99
-36,Restaurant & Food Service,Waste Template,17.99
-37,Restaurant & Food Service,Service Recovery Checklist,17.99
-38,Restaurant & Food Service,Vendor Planner,17.99
-39,Restaurant & Food Service,Menu Review,17.99
-40,Restaurant & Food Service,Staffing Template,17.99
-41,Restaurant & Food Service,Kitchen Checklist,17.99
-42,Restaurant & Food Service,Compliance Planner,17.99
-43,Restaurant & Food Service,Order Flow Review,17.99
-44,Restaurant & Food Service,Drive-Thru Template,17.99
-45,Restaurant & Food Service,Catering Checklist,17.99
-46,Restaurant & Food Service,Bar Planner,17.99
-47,Restaurant & Food Service,Breakfast Review,17.99
-48,Restaurant & Food Service,Lunch Template,17.99
-49,Restaurant & Food Service,Dinner Checklist,17.99
-50,Restaurant & Food Service,Delivery Planner,17.99
-51,Retail & Store Ops,Sales Checklist,18.99
-52,Retail & Store Ops,Inventory Planner,18.99
-53,Retail & Store Ops,Cash Drawer Review,18.99
-54,Retail & Store Ops,Store Opening Dashboard,18.99
-55,Retail & Store Ops,Store Closing Checklist,18.99
-56,Retail & Store Ops,Daily Planner,18.99
-57,Retail & Store Ops,Loss Prevention Review,18.99
-58,Retail & Store Ops,Restock Dashboard,18.99
-59,Retail & Store Ops,Holiday Checklist,18.99
-60,Retail & Store Ops,Return Planner,18.99
-61,Retail & Store Ops,Visual Merch Review,18.99
-62,Retail & Store Ops,Front End Dashboard,18.99
-63,Retail & Store Ops,Stockroom Checklist,18.99
-64,Retail & Store Ops,Staffing Planner,18.99
-65,Retail & Store Ops,Queue Review,18.99
-66,Retail & Store Ops,Retail Dashboard,18.99
-67,Retail & Store Ops,Checkout Checklist,18.99
-68,Retail & Store Ops,Customer Service Planner,19.99
-69,Retail & Store Ops,Recovery Review,18.99
-70,Retail & Store Ops,Pricing Dashboard,18.99
-71,Retail & Store Ops,Promo Checklist,18.99
-72,Retail & Store Ops,Display Planner,18.99
-73,Retail & Store Ops,Merch Review,18.99
-74,Retail & Store Ops,Upsell Dashboard,18.99
-75,Retail & Store Ops,Audit Checklist,18.99
-76,Retail & Store Ops,Floor Planner,18.99
-77,Retail & Store Ops,Team Review,18.99
-78,Retail & Store Ops,Cash Flow Dashboard,18.99
-79,Retail & Store Ops,Shopping Checklist,18.99
-80,Retail & Store Ops,Planogram Planner,18.99
-81,Retail & Store Ops,Sales Review,18.99
-82,Retail & Store Ops,Inventory Dashboard,18.99
-83,Retail & Store Ops,Cash Drawer Checklist,18.99
-84,Retail & Store Ops,Store Opening Planner,18.99
-85,Retail & Store Ops,Store Closing Review,18.99
-86,Retail & Store Ops,Daily Dashboard,18.99
-87,Retail & Store Ops,Loss Prevention Checklist,18.99
-88,Retail & Store Ops,Restock Planner,18.99
-89,Retail & Store Ops,Holiday Review,18.99
-90,Retail & Store Ops,Return Dashboard,18.99
-91,Retail & Store Ops,Visual Merch Checklist,18.99
-92,Retail & Store Ops,Front End Planner,18.99
-93,Retail & Store Ops,Stockroom Review,18.99
-94,Retail & Store Ops,Staffing Dashboard,18.99
-95,Retail & Store Ops,Queue Checklist,18.99
-96,Retail & Store Ops,Retail Planner,18.99
-97,Retail & Store Ops,Checkout Review,18.99
-98,Retail & Store Ops,Customer Service Dashboard,19.99
-99,Retail & Store Ops,Recovery Checklist,18.99
-100,Retail & Store Ops,Pricing Planner,18.99
+1,Restaurant & Food Service,Opening Checklist,5.00
+2,Restaurant & Food Service,Closing Planner,5.00
+3,Restaurant & Food Service,Inventory Review,5.00
+4,Restaurant & Food Service,Prep Template,5.00
+5,Restaurant & Food Service,Food Safety Checklist,5.00
+6,Restaurant & Food Service,Line Check Planner,5.00
+7,Restaurant & Food Service,Shift Review,5.00
+8,Restaurant & Food Service,Cash Flow Template,5.00
+9,Restaurant & Food Service,Waste Checklist,5.00
+10,Restaurant & Food Service,Service Recovery Planner,5.00
+11,Restaurant & Food Service,Vendor Review,5.00
+12,Restaurant & Food Service,Menu Template,5.00
+13,Restaurant & Food Service,Staffing Checklist,5.00
+14,Restaurant & Food Service,Kitchen Planner,5.00
+15,Restaurant & Food Service,Compliance Review,5.00
+16,Restaurant & Food Service,Order Flow Template,5.00
+17,Restaurant & Food Service,Drive-Thru Checklist,5.00
+18,Restaurant & Food Service,Catering Planner,5.00
+19,Restaurant & Food Service,Bar Review,5.00
+20,Restaurant & Food Service,Breakfast Template,5.00
+21,Restaurant & Food Service,Lunch Checklist,5.00
+22,Restaurant & Food Service,Dinner Planner,5.00
+23,Restaurant & Food Service,Delivery Review,5.00
+24,Restaurant & Food Service,Beverage Template,5.00
+25,Restaurant & Food Service,Franchise Checklist,5.00
+26,Restaurant & Food Service,Seasonal Planner,5.00
+27,Restaurant & Food Service,Holiday Review,5.00
+28,Restaurant & Food Service,Opening Template,5.00
+29,Restaurant & Food Service,Closing Checklist,5.00
+30,Restaurant & Food Service,Inventory Planner,5.00
+31,Restaurant & Food Service,Prep Review,5.00
+32,Restaurant & Food Service,Food Safety Template,5.00
+33,Restaurant & Food Service,Line Check Checklist,5.00
+34,Restaurant & Food Service,Shift Planner,5.00
+35,Restaurant & Food Service,Cash Flow Review,5.00
+36,Restaurant & Food Service,Waste Template,5.00
+37,Restaurant & Food Service,Service Recovery Checklist,5.00
+38,Restaurant & Food Service,Vendor Planner,5.00
+39,Restaurant & Food Service,Menu Review,5.00
+40,Restaurant & Food Service,Staffing Template,5.00
+41,Restaurant & Food Service,Kitchen Checklist,5.00
+42,Restaurant & Food Service,Compliance Planner,5.00
+43,Restaurant & Food Service,Order Flow Review,5.00
+44,Restaurant & Food Service,Drive-Thru Template,5.00
+45,Restaurant & Food Service,Catering Checklist,5.00
+46,Restaurant & Food Service,Bar Planner,5.00
+47,Restaurant & Food Service,Breakfast Review,5.00
+48,Restaurant & Food Service,Lunch Template,5.00
+49,Restaurant & Food Service,Dinner Checklist,5.00
+50,Restaurant & Food Service,Delivery Planner,5.00
+51,Retail & Store Ops,Sales Checklist,6.00
+52,Retail & Store Ops,Inventory Planner,6.00
+53,Retail & Store Ops,Cash Drawer Review,6.00
+54,Retail & Store Ops,Store Opening Dashboard,6.00
+55,Retail & Store Ops,Store Closing Checklist,6.00
+56,Retail & Store Ops,Daily Planner,6.00
+57,Retail & Store Ops,Loss Prevention Review,6.00
+58,Retail & Store Ops,Restock Dashboard,6.00
+59,Retail & Store Ops,Holiday Checklist,6.00
+60,Retail & Store Ops,Return Planner,6.00
+61,Retail & Store Ops,Visual Merch Review,6.00
+62,Retail & Store Ops,Front End Dashboard,6.00
+63,Retail & Store Ops,Stockroom Checklist,6.00
+64,Retail & Store Ops,Staffing Planner,6.00
+65,Retail & Store Ops,Queue Review,6.00
+66,Retail & Store Ops,Retail Dashboard,6.00
+67,Retail & Store Ops,Checkout Checklist,6.00
+68,Retail & Store Ops,Customer Service Planner,7.00
+69,Retail & Store Ops,Recovery Review,6.00
+70,Retail & Store Ops,Pricing Dashboard,6.00
+71,Retail & Store Ops,Promo Checklist,6.00
+72,Retail & Store Ops,Display Planner,6.00
+73,Retail & Store Ops,Merch Review,6.00
+74,Retail & Store Ops,Upsell Dashboard,6.00
+75,Retail & Store Ops,Audit Checklist,6.00
+76,Retail & Store Ops,Floor Planner,6.00
+77,Retail & Store Ops,Team Review,6.00
+78,Retail & Store Ops,Cash Flow Dashboard,6.00
+79,Retail & Store Ops,Shopping Checklist,6.00
+80,Retail & Store Ops,Planogram Planner,6.00
+81,Retail & Store Ops,Sales Review,6.00
+82,Retail & Store Ops,Inventory Dashboard,6.00
+83,Retail & Store Ops,Cash Drawer Checklist,6.00
+84,Retail & Store Ops,Store Opening Planner,6.00
+85,Retail & Store Ops,Store Closing Review,6.00
+86,Retail & Store Ops,Daily Dashboard,6.00
+87,Retail & Store Ops,Loss Prevention Checklist,6.00
+88,Retail & Store Ops,Restock Planner,6.00
+89,Retail & Store Ops,Holiday Review,6.00
+90,Retail & Store Ops,Return Dashboard,6.00
+91,Retail & Store Ops,Visual Merch Checklist,6.00
+92,Retail & Store Ops,Front End Planner,6.00
+93,Retail & Store Ops,Stockroom Review,6.00
+94,Retail & Store Ops,Staffing Dashboard,6.00
+95,Retail & Store Ops,Queue Checklist,6.00
+96,Retail & Store Ops,Retail Planner,6.00
+97,Retail & Store Ops,Checkout Review,6.00
+98,Retail & Store Ops,Customer Service Dashboard,7.00
+99,Retail & Store Ops,Recovery Checklist,6.00
+100,Retail & Store Ops,Pricing Planner,6.00

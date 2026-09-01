@@ -1,101 +1,101 @@
 number,category,product,price
-801,Warehousing & Logistics,Receiving Checklist,14.99
-802,Warehousing & Logistics,Shipping Planner,14.99
-803,Warehousing & Logistics,Inventory Template,14.99
-804,Warehousing & Logistics,Cycle Count Guide,14.99
-805,Warehousing & Logistics,Packing Log,14.99
-806,Warehousing & Logistics,Dispatch Review,14.99
-807,Warehousing & Logistics,Returns Dashboard,14.99
-808,Warehousing & Logistics,Route Tracker,14.99
-809,Warehousing & Logistics,Fleet Sheet,14.99
-810,Warehousing & Logistics,Loading Form,14.99
-811,Warehousing & Logistics,Warehouse Checklist,14.99
-812,Warehousing & Logistics,Cold Chain Planner,15.99
-813,Warehousing & Logistics,Storage Template,14.99
-814,Warehousing & Logistics,Last Mile Guide,14.99
-815,Warehousing & Logistics,Transfer Log,14.99
-816,Warehousing & Logistics,Dock Review,14.99
-817,Warehousing & Logistics,Fulfillment Dashboard,14.99
-818,Warehousing & Logistics,Cross-Docking Tracker,14.99
-819,Warehousing & Logistics,Freight Sheet,14.99
-820,Warehousing & Logistics,Receiving Form,14.99
-821,Warehousing & Logistics,Shipping Checklist,14.99
-822,Warehousing & Logistics,Inventory Planner,14.99
-823,Warehousing & Logistics,Cycle Count Template,14.99
-824,Warehousing & Logistics,Packing Guide,14.99
-825,Warehousing & Logistics,Dispatch Log,14.99
-826,Warehousing & Logistics,Returns Review,14.99
-827,Warehousing & Logistics,Route Dashboard,14.99
-828,Warehousing & Logistics,Fleet Tracker,14.99
-829,Warehousing & Logistics,Loading Sheet,14.99
-830,Warehousing & Logistics,Warehouse Form,14.99
-831,Warehousing & Logistics,Cold Chain Checklist,15.99
-832,Warehousing & Logistics,Storage Planner,14.99
-833,Warehousing & Logistics,Last Mile Template,14.99
-834,Warehousing & Logistics,Transfer Guide,14.99
-835,Warehousing & Logistics,Dock Log,14.99
-836,Warehousing & Logistics,Fulfillment Review,14.99
-837,Warehousing & Logistics,Cross-Docking Dashboard,14.99
-838,Warehousing & Logistics,Freight Tracker,14.99
-839,Warehousing & Logistics,Receiving Sheet,14.99
-840,Warehousing & Logistics,Shipping Form,14.99
-841,Warehousing & Logistics,Inventory Checklist,14.99
-842,Warehousing & Logistics,Cycle Count Planner,14.99
-843,Warehousing & Logistics,Packing Template,14.99
-844,Warehousing & Logistics,Dispatch Guide,14.99
-845,Warehousing & Logistics,Returns Log,14.99
-846,Warehousing & Logistics,Route Review,14.99
-847,Warehousing & Logistics,Fleet Dashboard,14.99
-848,Warehousing & Logistics,Loading Tracker,14.99
-849,Warehousing & Logistics,Warehouse Sheet,14.99
-850,Warehousing & Logistics,Cold Chain Form,15.99
-851,Beauty & Personal Care,Client Intake Checklist,15.99
-852,Beauty & Personal Care,Consultation Sheet,15.99
-853,Beauty & Personal Care,Treatment Template,15.99
-854,Beauty & Personal Care,Aftercare Dashboard,15.99
-855,Beauty & Personal Care,Appointment Planner,15.99
-856,Beauty & Personal Care,Product Guide,15.99
-857,Beauty & Personal Care,Skin Form,15.99
-858,Beauty & Personal Care,Hair Tracker,16.99
-859,Beauty & Personal Care,Nail Log,16.99
-860,Beauty & Personal Care,Wax Review,15.99
-861,Beauty & Personal Care,Massage Checklist,15.99
-862,Beauty & Personal Care,Facial Sheet,15.99
-863,Beauty & Personal Care,Salon Template,15.99
-864,Beauty & Personal Care,Service Dashboard,16.99
-865,Beauty & Personal Care,Retention Planner,15.99
-866,Beauty & Personal Care,Follow Up Guide,15.99
-867,Beauty & Personal Care,Branding Form,15.99
-868,Beauty & Personal Care,Upsell Tracker,15.99
-869,Beauty & Personal Care,Client Intake Log,15.99
-870,Beauty & Personal Care,Consultation Review,15.99
-871,Beauty & Personal Care,Treatment Checklist,15.99
-872,Beauty & Personal Care,Aftercare Sheet,15.99
-873,Beauty & Personal Care,Appointment Template,15.99
-874,Beauty & Personal Care,Product Dashboard,15.99
-875,Beauty & Personal Care,Skin Planner,15.99
-876,Beauty & Personal Care,Hair Guide,16.99
-877,Beauty & Personal Care,Nail Form,16.99
-878,Beauty & Personal Care,Wax Tracker,15.99
-879,Beauty & Personal Care,Massage Log,15.99
-880,Beauty & Personal Care,Facial Review,15.99
-881,Beauty & Personal Care,Salon Checklist,15.99
-882,Beauty & Personal Care,Service Sheet,16.99
-883,Beauty & Personal Care,Retention Template,15.99
-884,Beauty & Personal Care,Follow Up Dashboard,15.99
-885,Beauty & Personal Care,Branding Planner,15.99
-886,Beauty & Personal Care,Upsell Guide,15.99
-887,Beauty & Personal Care,Client Intake Form,15.99
-888,Beauty & Personal Care,Consultation Tracker,15.99
-889,Beauty & Personal Care,Treatment Log,15.99
-890,Beauty & Personal Care,Aftercare Review,15.99
-891,Beauty & Personal Care,Appointment Checklist,15.99
-892,Beauty & Personal Care,Product Sheet,15.99
-893,Beauty & Personal Care,Skin Template,15.99
-894,Beauty & Personal Care,Hair Dashboard,16.99
-895,Beauty & Personal Care,Nail Planner,16.99
-896,Beauty & Personal Care,Wax Guide,15.99
-897,Beauty & Personal Care,Massage Form,15.99
-898,Beauty & Personal Care,Facial Tracker,15.99
-899,Beauty & Personal Care,Salon Log,15.99
-900,Beauty & Personal Care,Service Review,16.99
+801,Warehousing & Logistics,Receiving Checklist,2.00
+802,Warehousing & Logistics,Shipping Planner,2.00
+803,Warehousing & Logistics,Inventory Template,2.00
+804,Warehousing & Logistics,Cycle Count Guide,2.00
+805,Warehousing & Logistics,Packing Log,2.00
+806,Warehousing & Logistics,Dispatch Review,2.00
+807,Warehousing & Logistics,Returns Dashboard,2.00
+808,Warehousing & Logistics,Route Tracker,2.00
+809,Warehousing & Logistics,Fleet Sheet,2.00
+810,Warehousing & Logistics,Loading Form,2.00
+811,Warehousing & Logistics,Warehouse Checklist,2.00
+812,Warehousing & Logistics,Cold Chain Planner,3.00
+813,Warehousing & Logistics,Storage Template,2.00
+814,Warehousing & Logistics,Last Mile Guide,2.00
+815,Warehousing & Logistics,Transfer Log,2.00
+816,Warehousing & Logistics,Dock Review,2.00
+817,Warehousing & Logistics,Fulfillment Dashboard,2.00
+818,Warehousing & Logistics,Cross-Docking Tracker,2.00
+819,Warehousing & Logistics,Freight Sheet,2.00
+820,Warehousing & Logistics,Receiving Form,2.00
+821,Warehousing & Logistics,Shipping Checklist,2.00
+822,Warehousing & Logistics,Inventory Planner,2.00
+823,Warehousing & Logistics,Cycle Count Template,2.00
+824,Warehousing & Logistics,Packing Guide,2.00
+825,Warehousing & Logistics,Dispatch Log,2.00
+826,Warehousing & Logistics,Returns Review,2.00
+827,Warehousing & Logistics,Route Dashboard,2.00
+828,Warehousing & Logistics,Fleet Tracker,2.00
+829,Warehousing & Logistics,Loading Sheet,2.00
+830,Warehousing & Logistics,Warehouse Form,2.00
+831,Warehousing & Logistics,Cold Chain Checklist,3.00
+832,Warehousing & Logistics,Storage Planner,2.00
+833,Warehousing & Logistics,Last Mile Template,2.00
+834,Warehousing & Logistics,Transfer Guide,2.00
+835,Warehousing & Logistics,Dock Log,2.00
+836,Warehousing & Logistics,Fulfillment Review,2.00
+837,Warehousing & Logistics,Cross-Docking Dashboard,2.00
+838,Warehousing & Logistics,Freight Tracker,2.00
+839,Warehousing & Logistics,Receiving Sheet,2.00
+840,Warehousing & Logistics,Shipping Form,2.00
+841,Warehousing & Logistics,Inventory Checklist,2.00
+842,Warehousing & Logistics,Cycle Count Planner,2.00
+843,Warehousing & Logistics,Packing Template,2.00
+844,Warehousing & Logistics,Dispatch Guide,2.00
+845,Warehousing & Logistics,Returns Log,2.00
+846,Warehousing & Logistics,Route Review,2.00
+847,Warehousing & Logistics,Fleet Dashboard,2.00
+848,Warehousing & Logistics,Loading Tracker,2.00
+849,Warehousing & Logistics,Warehouse Sheet,2.00
+850,Warehousing & Logistics,Cold Chain Form,3.00
+851,Beauty & Personal Care,Client Intake Checklist,3.00
+852,Beauty & Personal Care,Consultation Sheet,3.00
+853,Beauty & Personal Care,Treatment Template,3.00
+854,Beauty & Personal Care,Aftercare Dashboard,3.00
+855,Beauty & Personal Care,Appointment Planner,3.00
+856,Beauty & Personal Care,Product Guide,3.00
+857,Beauty & Personal Care,Skin Form,3.00
+858,Beauty & Personal Care,Hair Tracker,4.00
+859,Beauty & Personal Care,Nail Log,4.00
+860,Beauty & Personal Care,Wax Review,3.00
+861,Beauty & Personal Care,Massage Checklist,3.00
+862,Beauty & Personal Care,Facial Sheet,3.00
+863,Beauty & Personal Care,Salon Template,3.00
+864,Beauty & Personal Care,Service Dashboard,4.00
+865,Beauty & Personal Care,Retention Planner,3.00
+866,Beauty & Personal Care,Follow Up Guide,3.00
+867,Beauty & Personal Care,Branding Form,3.00
+868,Beauty & Personal Care,Upsell Tracker,3.00
+869,Beauty & Personal Care,Client Intake Log,3.00
+870,Beauty & Personal Care,Consultation Review,3.00
+871,Beauty & Personal Care,Treatment Checklist,3.00
+872,Beauty & Personal Care,Aftercare Sheet,3.00
+873,Beauty & Personal Care,Appointment Template,3.00
+874,Beauty & Personal Care,Product Dashboard,3.00
+875,Beauty & Personal Care,Skin Planner,3.00
+876,Beauty & Personal Care,Hair Guide,4.00
+877,Beauty & Personal Care,Nail Form,4.00
+878,Beauty & Personal Care,Wax Tracker,3.00
+879,Beauty & Personal Care,Massage Log,3.00
+880,Beauty & Personal Care,Facial Review,3.00
+881,Beauty & Personal Care,Salon Checklist,3.00
+882,Beauty & Personal Care,Service Sheet,4.00
+883,Beauty & Personal Care,Retention Template,3.00
+884,Beauty & Personal Care,Follow Up Dashboard,3.00
+885,Beauty & Personal Care,Branding Planner,3.00
+886,Beauty & Personal Care,Upsell Guide,3.00
+887,Beauty & Personal Care,Client Intake Form,3.00
+888,Beauty & Personal Care,Consultation Tracker,3.00
+889,Beauty & Personal Care,Treatment Log,3.00
+890,Beauty & Personal Care,Aftercare Review,3.00
+891,Beauty & Personal Care,Appointment Checklist,3.00
+892,Beauty & Personal Care,Product Sheet,3.00
+893,Beauty & Personal Care,Skin Template,3.00
+894,Beauty & Personal Care,Hair Dashboard,4.00
+895,Beauty & Personal Care,Nail Planner,4.00
+896,Beauty & Personal Care,Wax Guide,3.00
+897,Beauty & Personal Care,Massage Form,3.00
+898,Beauty & Personal Care,Facial Tracker,3.00
+899,Beauty & Personal Care,Salon Log,3.00
+900,Beauty & Personal Care,Service Review,4.00

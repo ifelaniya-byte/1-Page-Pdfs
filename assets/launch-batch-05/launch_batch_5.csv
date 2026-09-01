@@ -1,101 +1,101 @@
 number,category,product,price
-401,School & Student Life,Homework Checklist,14.99
-402,School & Student Life,Deadline Sheet,14.99
-403,School & Student Life,Study Template,14.99
-404,School & Student Life,Assignment Audit,14.99
-405,School & Student Life,Course Planner,14.99
-406,School & Student Life,Campus Review,14.99
-407,School & Student Life,Parent Map,15.99
-408,School & Student Life,Teacher Tracker,14.99
-409,School & Student Life,Classroom Log,14.99
-410,School & Student Life,Exam Guide,14.99
-411,School & Student Life,Essay Checklist,14.99
-412,School & Student Life,Reading Sheet,14.99
-413,School & Student Life,Project Template,14.99
-414,School & Student Life,Tutor Audit,14.99
-415,School & Student Life,Mentor Planner,14.99
-416,School & Student Life,Student Review,14.99
-417,School & Student Life,Academic Map,14.99
-418,School & Student Life,Group Tracker,14.99
-419,School & Student Life,Schedule Log,14.99
-420,School & Student Life,Semester Guide,14.99
-421,School & Student Life,Scholarship Checklist,14.99
-422,School & Student Life,Financial Aid Sheet,15.99
-423,School & Student Life,University Template,14.99
-424,School & Student Life,College Audit,14.99
-425,School & Student Life,Homework Planner,14.99
-426,School & Student Life,Deadline Review,14.99
-427,School & Student Life,Study Map,14.99
-428,School & Student Life,Assignment Tracker,14.99
-429,School & Student Life,Course Log,14.99
-430,School & Student Life,Campus Guide,14.99
-431,School & Student Life,Parent Checklist,15.99
-432,School & Student Life,Teacher Sheet,14.99
-433,School & Student Life,Classroom Template,14.99
-434,School & Student Life,Exam Audit,14.99
-435,School & Student Life,Essay Planner,14.99
-436,School & Student Life,Reading Review,14.99
-437,School & Student Life,Project Map,14.99
-438,School & Student Life,Tutor Tracker,14.99
-439,School & Student Life,Mentor Log,14.99
-440,School & Student Life,Student Guide,14.99
-441,School & Student Life,Academic Checklist,14.99
-442,School & Student Life,Group Sheet,14.99
-443,School & Student Life,Schedule Template,14.99
-444,School & Student Life,Semester Audit,14.99
-445,School & Student Life,Scholarship Planner,14.99
-446,School & Student Life,Financial Aid Review,15.99
-447,School & Student Life,University Map,14.99
-448,School & Student Life,College Tracker,14.99
-449,School & Student Life,Homework Log,14.99
-450,School & Student Life,Deadline Guide,14.99
-451,Family & Household Admin,Meal Checklist,14.99
-452,Family & Household Admin,Laundry Sheet,14.99
-453,Family & Household Admin,School Forms Template,14.99
-454,Family & Household Admin,Chore Map,14.99
-455,Family & Household Admin,Household Tracker,14.99
-456,Family & Household Admin,Family Admin Log,14.99
-457,Family & Household Admin,Schedule Review,14.99
-458,Family & Household Admin,Routine Form,14.99
-459,Family & Household Admin,School Lunch Planner,14.99
-460,Family & Household Admin,Vacation Guide,14.99
-461,Family & Household Admin,Pet Care Reset,15.99
-462,Family & Household Admin,Doctor Checklist,14.99
-463,Family & Household Admin,Appointment Sheet,14.99
-464,Family & Household Admin,Budget Template,15.99
-465,Family & Household Admin,Home Map,14.99
-466,Family & Household Admin,Parent Tracker,15.99
-467,Family & Household Admin,Weekend Log,14.99
-468,Family & Household Admin,Kids Review,14.99
-469,Family & Household Admin,Errand Form,14.99
-470,Family & Household Admin,Calendar Planner,14.99
-471,Family & Household Admin,House Guide,14.99
-472,Family & Household Admin,Life Reset,14.99
-473,Family & Household Admin,Home Reset Checklist,14.99
-474,Family & Household Admin,Meal Sheet,14.99
-475,Family & Household Admin,Laundry Template,14.99
-476,Family & Household Admin,School Forms Map,14.99
-477,Family & Household Admin,Chore Tracker,14.99
-478,Family & Household Admin,Household Log,14.99
-479,Family & Household Admin,Family Admin Review,14.99
-480,Family & Household Admin,Schedule Form,14.99
-481,Family & Household Admin,Routine Planner,14.99
-482,Family & Household Admin,School Lunch Guide,14.99
-483,Family & Household Admin,Vacation Reset,14.99
-484,Family & Household Admin,Pet Care Checklist,15.99
-485,Family & Household Admin,Doctor Sheet,14.99
-486,Family & Household Admin,Appointment Template,14.99
-487,Family & Household Admin,Budget Map,15.99
-488,Family & Household Admin,Home Tracker,14.99
-489,Family & Household Admin,Parent Log,15.99
-490,Family & Household Admin,Weekend Review,14.99
-491,Family & Household Admin,Kids Form,14.99
-492,Family & Household Admin,Errand Planner,14.99
-493,Family & Household Admin,Calendar Guide,14.99
-494,Family & Household Admin,House Reset,14.99
-495,Family & Household Admin,Life Checklist,14.99
-496,Family & Household Admin,Home Reset Sheet,14.99
-497,Family & Household Admin,Meal Template,14.99
-498,Family & Household Admin,Laundry Map,14.99
-499,Family & Household Admin,School Forms Tracker,14.99
-500,Family & Household Admin,Chore Log,14.99
+401,School & Student Life,Homework Checklist,2.00
+402,School & Student Life,Deadline Sheet,2.00
+403,School & Student Life,Study Template,2.00
+404,School & Student Life,Assignment Audit,2.00
+405,School & Student Life,Course Planner,2.00
+406,School & Student Life,Campus Review,2.00
+407,School & Student Life,Parent Map,3.00
+408,School & Student Life,Teacher Tracker,2.00
+409,School & Student Life,Classroom Log,2.00
+410,School & Student Life,Exam Guide,2.00
+411,School & Student Life,Essay Checklist,2.00
+412,School & Student Life,Reading Sheet,2.00
+413,School & Student Life,Project Template,2.00
+414,School & Student Life,Tutor Audit,2.00
+415,School & Student Life,Mentor Planner,2.00
+416,School & Student Life,Student Review,2.00
+417,School & Student Life,Academic Map,2.00
+418,School & Student Life,Group Tracker,2.00
+419,School & Student Life,Schedule Log,2.00
+420,School & Student Life,Semester Guide,2.00
+421,School & Student Life,Scholarship Checklist,2.00
+422,School & Student Life,Financial Aid Sheet,3.00
+423,School & Student Life,University Template,2.00
+424,School & Student Life,College Audit,2.00
+425,School & Student Life,Homework Planner,2.00
+426,School & Student Life,Deadline Review,2.00
+427,School & Student Life,Study Map,2.00
+428,School & Student Life,Assignment Tracker,2.00
+429,School & Student Life,Course Log,2.00
+430,School & Student Life,Campus Guide,2.00
+431,School & Student Life,Parent Checklist,3.00
+432,School & Student Life,Teacher Sheet,2.00
+433,School & Student Life,Classroom Template,2.00
+434,School & Student Life,Exam Audit,2.00
+435,School & Student Life,Essay Planner,2.00
+436,School & Student Life,Reading Review,2.00
+437,School & Student Life,Project Map,2.00
+438,School & Student Life,Tutor Tracker,2.00
+439,School & Student Life,Mentor Log,2.00
+440,School & Student Life,Student Guide,2.00
+441,School & Student Life,Academic Checklist,2.00
+442,School & Student Life,Group Sheet,2.00
+443,School & Student Life,Schedule Template,2.00
+444,School & Student Life,Semester Audit,2.00
+445,School & Student Life,Scholarship Planner,2.00
+446,School & Student Life,Financial Aid Review,3.00
+447,School & Student Life,University Map,2.00
+448,School & Student Life,College Tracker,2.00
+449,School & Student Life,Homework Log,2.00
+450,School & Student Life,Deadline Guide,2.00
+451,Family & Household Admin,Meal Checklist,2.00
+452,Family & Household Admin,Laundry Sheet,2.00
+453,Family & Household Admin,School Forms Template,2.00
+454,Family & Household Admin,Chore Map,2.00
+455,Family & Household Admin,Household Tracker,2.00
+456,Family & Household Admin,Family Admin Log,2.00
+457,Family & Household Admin,Schedule Review,2.00
+458,Family & Household Admin,Routine Form,2.00
+459,Family & Household Admin,School Lunch Planner,2.00
+460,Family & Household Admin,Vacation Guide,2.00
+461,Family & Household Admin,Pet Care Reset,3.00
+462,Family & Household Admin,Doctor Checklist,2.00
+463,Family & Household Admin,Appointment Sheet,2.00
+464,Family & Household Admin,Budget Template,3.00
+465,Family & Household Admin,Home Map,2.00
+466,Family & Household Admin,Parent Tracker,3.00
+467,Family & Household Admin,Weekend Log,2.00
+468,Family & Household Admin,Kids Review,2.00
+469,Family & Household Admin,Errand Form,2.00
+470,Family & Household Admin,Calendar Planner,2.00
+471,Family & Household Admin,House Guide,2.00
+472,Family & Household Admin,Life Reset,2.00
+473,Family & Household Admin,Home Reset Checklist,2.00
+474,Family & Household Admin,Meal Sheet,2.00
+475,Family & Household Admin,Laundry Template,2.00
+476,Family & Household Admin,School Forms Map,2.00
+477,Family & Household Admin,Chore Tracker,2.00
+478,Family & Household Admin,Household Log,2.00
+479,Family & Household Admin,Family Admin Review,2.00
+480,Family & Household Admin,Schedule Form,2.00
+481,Family & Household Admin,Routine Planner,2.00
+482,Family & Household Admin,School Lunch Guide,2.00
+483,Family & Household Admin,Vacation Reset,2.00
+484,Family & Household Admin,Pet Care Checklist,3.00
+485,Family & Household Admin,Doctor Sheet,2.00
+486,Family & Household Admin,Appointment Template,2.00
+487,Family & Household Admin,Budget Map,3.00
+488,Family & Household Admin,Home Tracker,2.00
+489,Family & Household Admin,Parent Log,3.00
+490,Family & Household Admin,Weekend Review,2.00
+491,Family & Household Admin,Kids Form,2.00
+492,Family & Household Admin,Errand Planner,2.00
+493,Family & Household Admin,Calendar Guide,2.00
+494,Family & Household Admin,House Reset,2.00
+495,Family & Household Admin,Life Checklist,2.00
+496,Family & Household Admin,Home Reset Sheet,2.00
+497,Family & Household Admin,Meal Template,2.00
+498,Family & Household Admin,Laundry Map,2.00
+499,Family & Household Admin,School Forms Tracker,2.00
+500,Family & Household Admin,Chore Log,2.00

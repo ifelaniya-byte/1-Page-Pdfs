@@ -1,101 +1,101 @@
 number,category,product,price
-101,Construction & Trades,Jobsite Checklist,18.99
-102,Construction & Trades,Safety Planner,18.99
-103,Construction & Trades,Estimate Audit,18.99
-104,Construction & Trades,Punch List Daily,19.99
-105,Construction & Trades,Inspection Checklist,18.99
-106,Construction & Trades,Crew Planner,18.99
-107,Construction & Trades,Equipment Audit,18.99
-108,Construction & Trades,Daily Daily,19.99
-109,Construction & Trades,Site Checklist,18.99
-110,Construction & Trades,Material Planner,18.99
-111,Construction & Trades,Change Order Audit,18.99
-112,Construction & Trades,Permit Daily,19.99
-113,Construction & Trades,Subcontractor Checklist,20.99
-114,Construction & Trades,Progress Planner,18.99
-115,Construction & Trades,Cleanup Audit,18.99
-116,Construction & Trades,Inspection Daily,19.99
-117,Construction & Trades,Project Checklist,18.99
-118,Construction & Trades,Field Planner,18.99
-119,Construction & Trades,Tool Audit,18.99
-120,Construction & Trades,Weather Daily,19.99
-121,Construction & Trades,Road Checklist,18.99
-122,Construction & Trades,Flooring Planner,18.99
-123,Construction & Trades,Drywall Audit,18.99
-124,Construction & Trades,Concrete Daily,19.99
-125,Construction & Trades,Electrical Checklist,18.99
-126,Construction & Trades,Plumbing Planner,18.99
-127,Construction & Trades,HVAC Audit,18.99
-128,Construction & Trades,Painting Daily,19.99
-129,Construction & Trades,Roofing Checklist,18.99
-130,Construction & Trades,Demolition Planner,18.99
-131,Construction & Trades,Maintenance Audit,19.99
-132,Construction & Trades,Jobsite Daily,19.99
-133,Construction & Trades,Safety Checklist,18.99
-134,Construction & Trades,Estimate Planner,18.99
-135,Construction & Trades,Punch List Audit,18.99
-136,Construction & Trades,Inspection Daily,19.99
-137,Construction & Trades,Crew Checklist,18.99
-138,Construction & Trades,Equipment Planner,18.99
-139,Construction & Trades,Daily Audit,19.99
-140,Construction & Trades,Site Daily,19.99
-141,Construction & Trades,Material Checklist,18.99
-142,Construction & Trades,Change Order Planner,18.99
-143,Construction & Trades,Permit Audit,18.99
-144,Construction & Trades,Subcontractor Daily,21.99
-145,Construction & Trades,Progress Checklist,18.99
-146,Construction & Trades,Cleanup Planner,18.99
-147,Construction & Trades,Inspection Audit,18.99
-148,Construction & Trades,Project Daily,19.99
-149,Construction & Trades,Field Checklist,18.99
-150,Construction & Trades,Tool Planner,18.99
-151,Legal & Professional Services,Client Intake Sheet,28.99
-152,Legal & Professional Services,Case Status Log,28.99
-153,Legal & Professional Services,Billing Template,28.99
-154,Legal & Professional Services,Deadline Guide,28.99
-155,Legal & Professional Services,Follow Up Tracker,28.99
-156,Legal & Professional Services,Conflict Check Planner,28.99
-157,Legal & Professional Services,Evidence Review,28.99
-158,Legal & Professional Services,Discovery Dashboard,28.99
-159,Legal & Professional Services,Retention Checklist,28.99
-160,Legal & Professional Services,Consultation Form,28.99
-161,Legal & Professional Services,Matter Audit,28.99
-162,Legal & Professional Services,Review Sheet,28.99
-163,Legal & Professional Services,Document Log,28.99
-164,Legal & Professional Services,Compliance Template,28.99
-165,Legal & Professional Services,Appeal Guide,28.99
-166,Legal & Professional Services,Court Tracker,28.99
-167,Legal & Professional Services,Settlement Planner,28.99
-168,Legal & Professional Services,Research Review,28.99
-169,Legal & Professional Services,Client Dashboard,28.99
-170,Legal & Professional Services,File Checklist,28.99
-171,Legal & Professional Services,Handoff Form,28.99
-172,Legal & Professional Services,Billing Audit,28.99
-173,Legal & Professional Services,Paralegal Sheet,28.99
-174,Legal & Professional Services,Notary Log,28.99
-175,Legal & Professional Services,Trust Template,28.99
-176,Legal & Professional Services,Escrow Guide,28.99
-177,Legal & Professional Services,Client Intake Tracker,28.99
-178,Legal & Professional Services,Case Status Planner,28.99
-179,Legal & Professional Services,Billing Review,28.99
-180,Legal & Professional Services,Deadline Dashboard,28.99
-181,Legal & Professional Services,Follow Up Checklist,28.99
-182,Legal & Professional Services,Conflict Check Form,28.99
-183,Legal & Professional Services,Evidence Audit,28.99
-184,Legal & Professional Services,Discovery Sheet,28.99
-185,Legal & Professional Services,Retention Log,28.99
-186,Legal & Professional Services,Consultation Template,28.99
-187,Legal & Professional Services,Matter Guide,28.99
-188,Legal & Professional Services,Review Tracker,28.99
-189,Legal & Professional Services,Document Planner,28.99
-190,Legal & Professional Services,Compliance Review,28.99
-191,Legal & Professional Services,Appeal Dashboard,28.99
-192,Legal & Professional Services,Court Checklist,28.99
-193,Legal & Professional Services,Settlement Form,28.99
-194,Legal & Professional Services,Research Audit,28.99
-195,Legal & Professional Services,Client Sheet,28.99
-196,Legal & Professional Services,File Log,28.99
-197,Legal & Professional Services,Handoff Template,28.99
-198,Legal & Professional Services,Billing Guide,28.99
-199,Legal & Professional Services,Paralegal Tracker,28.99
-200,Legal & Professional Services,Notary Planner,28.99
+101,Construction & Trades,Jobsite Checklist,6.00
+102,Construction & Trades,Safety Planner,6.00
+103,Construction & Trades,Estimate Audit,6.00
+104,Construction & Trades,Punch List Daily,7.00
+105,Construction & Trades,Inspection Checklist,6.00
+106,Construction & Trades,Crew Planner,6.00
+107,Construction & Trades,Equipment Audit,6.00
+108,Construction & Trades,Daily Daily,7.00
+109,Construction & Trades,Site Checklist,6.00
+110,Construction & Trades,Material Planner,6.00
+111,Construction & Trades,Change Order Audit,6.00
+112,Construction & Trades,Permit Daily,7.00
+113,Construction & Trades,Subcontractor Checklist,8.00
+114,Construction & Trades,Progress Planner,6.00
+115,Construction & Trades,Cleanup Audit,6.00
+116,Construction & Trades,Inspection Daily,7.00
+117,Construction & Trades,Project Checklist,6.00
+118,Construction & Trades,Field Planner,6.00
+119,Construction & Trades,Tool Audit,6.00
+120,Construction & Trades,Weather Daily,7.00
+121,Construction & Trades,Road Checklist,6.00
+122,Construction & Trades,Flooring Planner,6.00
+123,Construction & Trades,Drywall Audit,6.00
+124,Construction & Trades,Concrete Daily,7.00
+125,Construction & Trades,Electrical Checklist,6.00
+126,Construction & Trades,Plumbing Planner,6.00
+127,Construction & Trades,HVAC Audit,6.00
+128,Construction & Trades,Painting Daily,7.00
+129,Construction & Trades,Roofing Checklist,6.00
+130,Construction & Trades,Demolition Planner,6.00
+131,Construction & Trades,Maintenance Audit,7.00
+132,Construction & Trades,Jobsite Daily,7.00
+133,Construction & Trades,Safety Checklist,6.00
+134,Construction & Trades,Estimate Planner,6.00
+135,Construction & Trades,Punch List Audit,6.00
+136,Construction & Trades,Inspection Daily,7.00
+137,Construction & Trades,Crew Checklist,6.00
+138,Construction & Trades,Equipment Planner,6.00
+139,Construction & Trades,Daily Audit,7.00
+140,Construction & Trades,Site Daily,7.00
+141,Construction & Trades,Material Checklist,6.00
+142,Construction & Trades,Change Order Planner,6.00
+143,Construction & Trades,Permit Audit,6.00
+144,Construction & Trades,Subcontractor Daily,9.00
+145,Construction & Trades,Progress Checklist,6.00
+146,Construction & Trades,Cleanup Planner,6.00
+147,Construction & Trades,Inspection Audit,6.00
+148,Construction & Trades,Project Daily,7.00
+149,Construction & Trades,Field Checklist,6.00
+150,Construction & Trades,Tool Planner,6.00
+151,Legal & Professional Services,Client Intake Sheet,16.00
+152,Legal & Professional Services,Case Status Log,16.00
+153,Legal & Professional Services,Billing Template,16.00
+154,Legal & Professional Services,Deadline Guide,16.00
+155,Legal & Professional Services,Follow Up Tracker,16.00
+156,Legal & Professional Services,Conflict Check Planner,16.00
+157,Legal & Professional Services,Evidence Review,16.00
+158,Legal & Professional Services,Discovery Dashboard,16.00
+159,Legal & Professional Services,Retention Checklist,16.00
+160,Legal & Professional Services,Consultation Form,16.00
+161,Legal & Professional Services,Matter Audit,16.00
+162,Legal & Professional Services,Review Sheet,16.00
+163,Legal & Professional Services,Document Log,16.00
+164,Legal & Professional Services,Compliance Template,16.00
+165,Legal & Professional Services,Appeal Guide,16.00
+166,Legal & Professional Services,Court Tracker,16.00
+167,Legal & Professional Services,Settlement Planner,16.00
+168,Legal & Professional Services,Research Review,16.00
+169,Legal & Professional Services,Client Dashboard,16.00
+170,Legal & Professional Services,File Checklist,16.00
+171,Legal & Professional Services,Handoff Form,16.00
+172,Legal & Professional Services,Billing Audit,16.00
+173,Legal & Professional Services,Paralegal Sheet,16.00
+174,Legal & Professional Services,Notary Log,16.00
+175,Legal & Professional Services,Trust Template,16.00
+176,Legal & Professional Services,Escrow Guide,16.00
+177,Legal & Professional Services,Client Intake Tracker,16.00
+178,Legal & Professional Services,Case Status Planner,16.00
+179,Legal & Professional Services,Billing Review,16.00
+180,Legal & Professional Services,Deadline Dashboard,16.00
+181,Legal & Professional Services,Follow Up Checklist,16.00
+182,Legal & Professional Services,Conflict Check Form,16.00
+183,Legal & Professional Services,Evidence Audit,16.00
+184,Legal & Professional Services,Discovery Sheet,16.00
+185,Legal & Professional Services,Retention Log,16.00
+186,Legal & Professional Services,Consultation Template,16.00
+187,Legal & Professional Services,Matter Guide,16.00
+188,Legal & Professional Services,Review Tracker,16.00
+189,Legal & Professional Services,Document Planner,16.00
+190,Legal & Professional Services,Compliance Review,16.00
+191,Legal & Professional Services,Appeal Dashboard,16.00
+192,Legal & Professional Services,Court Checklist,16.00
+193,Legal & Professional Services,Settlement Form,16.00
+194,Legal & Professional Services,Research Audit,16.00
+195,Legal & Professional Services,Client Sheet,16.00
+196,Legal & Professional Services,File Log,16.00
+197,Legal & Professional Services,Handoff Template,16.00
+198,Legal & Professional Services,Billing Guide,16.00
+199,Legal & Professional Services,Paralegal Tracker,16.00
+200,Legal & Professional Services,Notary Planner,16.00
