@@ -1,0 +1,201 @@
+rank,title,category,buyer,price_usd,filename,intent,score
+1,Caregiver Burnout Reset,Senior care,Senior care,9.50,caregiver-burnout-reset.pdf,high-intent,146
+2,Debt Stress Recovery Plan,Money & budgeting,Money & budgeting,7.50,debt-stress-recovery-plan.pdf,high-intent,137
+3,Home Safety Audit,Senior care,Senior care,9.50,home-safety-audit.pdf,high-intent,136
+4,Home Recovery Checklist,Healthcare,Healthcare,13.00,home-recovery-checklist.pdf,high-intent,133
+5,Insurance Renewal Tracker,Healthcare,Healthcare,15.00,insurance-renewal-tracker.pdf,high-intent,131
+6,Family Care Meeting Agenda,Senior care,Senior care,9.50,family-care-meeting-agenda.pdf,high-intent,130
+7,Family Care Timeline,Senior care,Senior care,9.50,family-care-timeline.pdf,high-intent,130
+8,Family Admin Chaos Reset,Caregiving,Caregiving,7.00,family-admin-chaos-reset.pdf,high-intent,130
+9,Caregiver Support Planner,Senior care,Senior care,9.50,caregiver-support-planner.pdf,high-intent,129
+10,Senior Medication Tracker,Senior care,Senior care,9.50,senior-medication-tracker.pdf,high-intent,129
+11,Senior Transportation Planner,Senior care,Senior care,9.50,senior-transportation-planner.pdf,high-intent,129
+12,Elder Tech Setup Guide,Senior care,Senior care,11.00,elder-tech-setup-guide.pdf,high-intent,128
+13,Fall Prevention Checklist,Senior care,Senior care,9.50,fall-prevention-checklist.pdf,high-intent,128
+14,Long-Term Care Checklist,Senior care,Senior care,9.50,long-term-care-checklist.pdf,high-intent,128
+15,Mobility Support Checklist,Senior care,Senior care,9.50,mobility-support-checklist.pdf,high-intent,128
+16,Childcare Budget Survival,Caregiving,Caregiving,8.00,childcare-budget-survival.pdf,high-intent,128
+17,New Parent Overwhelm Sheet,Caregiving,Caregiving,8.00,new-parent-overwhelm-sheet.pdf,high-intent,128
+18,Birth Recovery Checklist,Healthcare,Healthcare,13.00,birth-recovery-checklist.pdf,high-intent,127
+19,Healthcare Benefits Navigator,Health & insurance,Health & insurance,14.00,healthcare-benefits-navigator.pdf,high-intent,126
+20,Owner Burnout Reset,Small business,Small business,8.00,owner-burnout-reset.pdf,high-intent,126
+21,AI Overwhelm Reset,AI & productivity,AI & productivity,6.00,ai-overwhelm-reset.pdf,high-intent,126
+22,Remote Burnout Recovery Sheet,Work-life balance,Work-life balance,5.00,remote-burnout-recovery-sheet.pdf,high-intent,125
+23,Insurance Claim Prep Sheet,Healthcare,Healthcare,16.00,insurance-claim-prep-sheet.pdf,high-intent,124
+24,Inflation Budget Reset,Money & budgeting,Money & budgeting,6.00,inflation-budget-reset.pdf,high-intent,124
+25,Aging-in-Place Routine,Senior care,Senior care,9.50,aging-in-place-routine.pdf,high-intent,122
+26,Caregiver Hand-Off Sheet,Senior care,Senior care,9.50,caregiver-hand-off-sheet.pdf,high-intent,122
+27,Doctor Appointment Organizer,Senior care,Senior care,9.50,doctor-appointment-organizer.pdf,high-intent,122
+28,End-of-Life Planning Organizer,Senior care,Senior care,9.50,end-of-life-planning-organizer.pdf,high-intent,122
+29,Medication Review Timeline,Senior care,Senior care,9.50,medication-review-timeline.pdf,high-intent,122
+30,Memory Care Routine Sheet,Senior care,Senior care,9.50,memory-care-routine-sheet.pdf,high-intent,122
+31,Respite Care Calendar,Senior care,Senior care,9.50,respite-care-calendar.pdf,high-intent,122
+32,Senior Move Planning Sheet,Senior care,Senior care,9.50,senior-move-planning-sheet.pdf,high-intent,122
+33,Senior Wellness Scorecard,Senior care,Senior care,9.50,senior-wellness-scorecard.pdf,high-intent,122
+34,Caregiver Capacity Reset,Caregiving,Caregiving,7.00,caregiver-capacity-reset.pdf,high-intent,122
+35,Postpartum Recovery Sheet,Healthcare,Healthcare,13.00,postpartum-recovery-sheet.pdf,high-intent,121
+36,Housing Cost Anxiety Tracker,Money & budgeting,Money & budgeting,6.00,housing-cost-anxiety-tracker.pdf,high-intent,121
+37,Real Estate Closing Checklist,Legal,Legal,17.00,real-estate-closing-checklist.pdf,high-intent,120
+38,Rent Pressure Survival Guide,Money & budgeting,Money & budgeting,7.00,rent-pressure-survival-guide.pdf,high-intent,120
+39,Family Care Weekly Map,Healthcare,Healthcare,13.00,family-care-weekly-map.pdf,high-intent,118
+40,Family Health Snapshot,Healthcare,Healthcare,13.00,family-health-snapshot.pdf,high-intent,118
+41,Family Wellness Calendar,Healthcare,Healthcare,13.00,family-wellness-calendar.pdf,high-intent,118
+42,Business Owner Weekly Reset,Business ops,Business ops,8.00,business-owner-weekly-reset.pdf,high-intent,118
+43,New Parent Daily Planner,Healthcare,Healthcare,15.00,new-parent-daily-planner.pdf,high-intent,117
+44,Emergency Room Wait Time Planner,Healthcare,Healthcare,14.00,emergency-room-wait-time-planner.pdf,high-intent,117
+45,Baby Feeding Tracker,Healthcare,Healthcare,13.00,baby-feeding-tracker.pdf,high-intent,117
+46,Chronic Condition Planner,Healthcare,Healthcare,13.00,chronic-condition-planner.pdf,high-intent,117
+47,FSA Spending Tracker,Healthcare,Healthcare,13.00,fsa-spending-tracker.pdf,high-intent,117
+48,HSA Savings Planner,Healthcare,Healthcare,13.00,hsa-savings-planner.pdf,high-intent,117
+49,Therapy Session Tracker,Healthcare,Healthcare,13.00,therapy-session-tracker.pdf,high-intent,117
+50,Vaccination Tracker,Healthcare,Healthcare,13.00,vaccination-tracker.pdf,high-intent,117
+51,Medical Bill Negotiation Guide,Healthcare,Healthcare,15.00,medical-bill-negotiation-guide.pdf,high-intent,116
+52,Dementia Care Checklist,Healthcare,Healthcare,13.00,dementia-care-checklist.pdf,high-intent,116
+53,Home Health Care Log,Healthcare,Healthcare,13.00,home-health-care-log.pdf,high-intent,116
+54,Medicare Enrollment Guide,Healthcare,Healthcare,13.00,medicare-enrollment-guide.pdf,high-intent,116
+55,Primary Care Visit Checklist,Healthcare,Healthcare,13.00,primary-care-visit-checklist.pdf,high-intent,116
+56,School Readiness Checklist,Healthcare,Healthcare,13.00,school-readiness-checklist.pdf,high-intent,116
+57,Urgent Care Decision Guide,Healthcare,Healthcare,13.00,urgent-care-decision-guide.pdf,high-intent,116
+58,Vacancy Recovery Checklist,Real estate,Real estate,10.00,vacancy-recovery-checklist.pdf,high-intent,115
+59,Service Business Sales Tracker,Business ops,Business ops,9.00,service-business-sales-tracker.pdf,high-intent,115
+60,Executive Focus Planner,Business ops,Business ops,8.00,executive-focus-planner.pdf,high-intent,115
+61,Team Communication Tracker,Business ops,Business ops,8.00,team-communication-tracker.pdf,high-intent,115
+62,Prompt Fatigue Recovery,AI & productivity,AI & productivity,6.00,prompt-fatigue-recovery.pdf,high-intent,115
+63,Estate Planning Basics,Legal,Legal,17.00,estate-planning-basics.pdf,high-intent,114
+64,Business Ownership Risk Sheet,Legal,Legal,16.00,business-ownership-risk-sheet.pdf,high-intent,114
+65,Family Business Succession,Legal,Legal,16.00,family-business-succession.pdf,high-intent,114
+66,Prescription Routine Organizer,Health & insurance,Health & insurance,11.00,prescription-routine-organizer.pdf,high-intent,114
+67,Client Delivery Checklist,Business ops,Business ops,8.00,client-delivery-checklist.pdf,high-intent,114
+68,Emergency Savings Sprint,Money & budgeting,Money & budgeting,6.00,emergency-savings-sprint.pdf,high-intent,114
+69,Utility Cost Slashing Sheet,Money & budgeting,Money & budgeting,6.00,utility-cost-slashing-sheet.pdf,high-intent,114
+70,Home Safety & Routine Guide,Home ops,Home ops,4.00,home-safety-and-routine-guide.pdf,value,114
+71,Contract Renewal Tracker,Legal,Legal,17.00,contract-renewal-tracker.pdf,high-intent,113
+72,Client Retainer Tracker,Legal,Legal,16.00,client-retainer-tracker.pdf,high-intent,113
+73,Asset Protection Planner,Legal,Legal,15.00,asset-protection-planner.pdf,high-intent,113
+74,Document Signing Tracker,Legal,Legal,15.00,document-signing-tracker.pdf,high-intent,113
+75,Fee Schedule Tracker,Legal,Legal,15.00,fee-schedule-tracker.pdf,high-intent,113
+76,Notary Appointment Planner,Legal,Legal,15.00,notary-appointment-planner.pdf,high-intent,113
+77,Settlement Timeline Planner,Legal,Legal,15.00,settlement-timeline-planner.pdf,high-intent,113
+78,Pet Insurance Cost Tracker,Pet care,Pet care,6.00,pet-insurance-cost-tracker.pdf,high-intent,113
+79,Hybrid Job Energy Tracker,Work-life balance,Work-life balance,5.00,hybrid-job-energy-tracker.pdf,high-intent,113
+80,Work From Home Boundary Planner,Work-life balance,Work-life balance,5.00,work-from-home-boundary-planner.pdf,high-intent,113
+81,Home Energy Cost Tracker,Home ops,Home ops,4.00,home-energy-cost-tracker.pdf,value,113
+82,Contract Review Quick Checklist,Legal,Legal,17.00,contract-review-quick-checklist.pdf,high-intent,112
+83,Debt Settlement Guide,Legal,Legal,16.50,debt-settlement-guide.pdf,high-intent,112
+84,Service Agreement Checklist,Legal,Legal,16.00,service-agreement-checklist.pdf,high-intent,112
+85,Client Consent Checklist,Legal,Legal,15.00,client-consent-checklist.pdf,high-intent,112
+86,Divorce Financial Checklist,Legal,Legal,15.00,divorce-financial-checklist.pdf,high-intent,112
+87,Mobile Notary Checklist,Legal,Legal,15.00,mobile-notary-checklist.pdf,high-intent,112
+88,Noncompete Review Guide,Legal,Legal,15.00,noncompete-review-guide.pdf,high-intent,112
+89,Power of Attorney Guide,Legal,Legal,15.00,power-of-attorney-guide.pdf,high-intent,112
+90,Trust Funding Checklist,Legal,Legal,15.00,trust-funding-checklist.pdf,high-intent,112
+91,Freelance Cash Flow Stability,Small business,Small business,8.00,freelance-cash-flow-stability.pdf,high-intent,112
+92,Operating Cash Snapshot,Small business,Small business,8.00,operating-cash-snapshot.pdf,high-intent,112
+93,Lawn Care Client Tracker,Home services,Home services,6.00,lawn-care-client-tracker.pdf,high-intent,111
+94,Medical Record Refresh Sheet,Healthcare,Healthcare,15.00,medical-record-refresh-sheet.pdf,high-intent,110
+95,Medical Visit Prep Sheet,Healthcare,Healthcare,15.00,medical-visit-prep-sheet.pdf,high-intent,110
+96,Baby Sleep Schedule,Healthcare,Healthcare,13.00,baby-sleep-schedule.pdf,high-intent,110
+97,Caregiver Weekly Coverage Plan,Healthcare,Healthcare,13.00,caregiver-weekly-coverage-plan.pdf,high-intent,110
+98,Child Health Log,Healthcare,Healthcare,13.00,child-health-log.pdf,high-intent,110
+99,Dental Appointments Organizer,Healthcare,Healthcare,13.00,dental-appointments-organizer.pdf,high-intent,110
+100,Healthcare Cost Comparison,Healthcare,Healthcare,13.00,healthcare-cost-comparison.pdf,high-intent,110
+101,Mental Health Check-In Sheet,Healthcare,Healthcare,13.00,mental-health-check-in-sheet.pdf,high-intent,110
+102,Pharmacy Management Sheet,Healthcare,Healthcare,13.00,pharmacy-management-sheet.pdf,high-intent,110
+103,Prescription Schedule Sheet,Healthcare,Healthcare,13.00,prescription-schedule-sheet.pdf,high-intent,110
+104,Specialist Referral Organizer,Healthcare,Healthcare,13.00,specialist-referral-organizer.pdf,high-intent,110
+105,Telehealth Visit Summary,Healthcare,Healthcare,13.00,telehealth-visit-summary.pdf,high-intent,110
+106,Vacancy Recovery Sheet,Real estate,Real estate,10.00,vacancy-recovery-sheet.pdf,high-intent,109
+107,Gig Income Buffer Planner,Small business,Small business,8.00,gig-income-buffer-planner.pdf,high-intent,109
+108,Sales Forecast Planner,Small business,Small business,8.00,sales-forecast-planner.pdf,high-intent,109
+109,Business Tax Prep Checklist,Small business,Small business,9.50,business-tax-prep-checklist.pdf,high-intent,108
+110,Daily Owner Dashboard,Business ops,Business ops,9.00,daily-owner-dashboard.pdf,high-intent,108
+111,Operations Bottleneck Map,Business ops,Business ops,8.00,operations-bottleneck-map.pdf,high-intent,108
+112,Pipeline Review Sheet,Business ops,Business ops,8.00,pipeline-review-sheet.pdf,high-intent,108
+113,Task Priority Compass,Business ops,Business ops,8.00,task-priority-compass.pdf,high-intent,108
+114,Workflow Cleanup Worksheet,Business ops,Business ops,8.00,workflow-cleanup-worksheet.pdf,high-intent,108
+115,Advertising Budget Check,Marketing,Marketing,7.00,advertising-budget-check.pdf,high-intent,108
+116,Client Contract Reminder,Legal,Legal,17.00,client-contract-reminder.pdf,high-intent,106
+117,Business Partnership Review,Legal,Legal,16.00,business-partnership-review.pdf,high-intent,106
+118,Small Business Legal Audit,Legal,Legal,16.00,small-business-legal-audit.pdf,high-intent,106
+119,Beneficiary Update Sheet,Legal,Legal,15.00,beneficiary-update-sheet.pdf,high-intent,106
+120,Client Follow-Up Reminder,Legal,Legal,15.00,client-follow-up-reminder.pdf,high-intent,106
+121,Consulting Proposal Outline,Legal,Legal,15.00,consulting-proposal-outline.pdf,high-intent,106
+122,Demand Letter Prep Sheet,Legal,Legal,15.00,demand-letter-prep-sheet.pdf,high-intent,106
+123,Document Return Log,Legal,Legal,15.00,document-return-log.pdf,high-intent,106
+124,Employment Agreement Review,Legal,Legal,15.00,employment-agreement-review.pdf,high-intent,106
+125,Employment Offer Review,Legal,Legal,15.00,employment-offer-review.pdf,high-intent,106
+126,LLC Formation Organizer,Legal,Legal,15.00,llc-formation-organizer.pdf,high-intent,106
+127,Legal Deadline Log,Legal,Legal,15.00,legal-deadline-log.pdf,high-intent,106
+128,Legal Intake Summary,Legal,Legal,15.00,legal-intake-summary.pdf,high-intent,106
+129,Mediation Prep Sheet,Legal,Legal,15.00,mediation-prep-sheet.pdf,high-intent,106
+130,Notary Journal Log,Legal,Legal,15.00,notary-journal-log.pdf,high-intent,106
+131,Power of Attorney Organizer,Legal,Legal,15.00,power-of-attorney-organizer.pdf,high-intent,106
+132,Solo Attorney Client Intake,Legal,Legal,15.00,solo-attorney-client-intake.pdf,high-intent,106
+133,Will Review Prep Sheet,Legal,Legal,15.00,will-review-prep-sheet.pdf,high-intent,106
+134,Witness Signature Sheet,Legal,Legal,15.00,witness-signature-sheet.pdf,high-intent,106
+135,Meal Planning Under Stress,Family systems,Family systems,4.00,meal-planning-under-stress.pdf,value,106
+136,Landlord Rent Collection Tracker,Real estate,Real estate,11.00,landlord-rent-collection-tracker.pdf,high-intent,105
+137,Property Maintenance Planner,Real estate,Real estate,11.00,property-maintenance-planner.pdf,high-intent,105
+138,Short-Term Rental Planner,Real estate,Real estate,11.00,short-term-rental-planner.pdf,high-intent,105
+139,HOA Communication Tracker,Real estate,Real estate,10.00,hoa-communication-tracker.pdf,high-intent,105
+140,Landlord Invoice Tracker,Real estate,Real estate,10.00,landlord-invoice-tracker.pdf,high-intent,105
+141,Property Turnover Planner,Real estate,Real estate,10.00,property-turnover-planner.pdf,high-intent,105
+142,Showing Feedback Tracker,Real estate,Real estate,10.00,showing-feedback-tracker.pdf,high-intent,105
+143,Service Business Ops Checklist,Local business,Local business,8.00,service-business-ops-checklist.pdf,high-intent,105
+144,Rental Screening Checklist,Real estate,Real estate,11.00,rental-screening-checklist.pdf,high-intent,104
+145,Home Inspection Follow-Up,Real estate,Real estate,10.00,home-inspection-follow-up.pdf,high-intent,104
+146,Home Inspection Punch List,Real estate,Real estate,10.00,home-inspection-punch-list.pdf,high-intent,104
+147,Real Estate Showing Checklist,Real estate,Real estate,10.00,real-estate-showing-checklist.pdf,high-intent,104
+148,Tenant Move-In Checklist,Real estate,Real estate,10.00,tenant-move-in-checklist.pdf,high-intent,104
+149,Membership Funnel Planner,Digital business,Digital business,7.00,membership-funnel-planner.pdf,high-intent,104
+150,Website Refresh Planner,Digital business,Digital business,7.00,website-refresh-planner.pdf,high-intent,104
+151,Lawn Care Scheduling Sheet,Home services,Home services,6.00,lawn-care-scheduling-sheet.pdf,high-intent,104
+152,Cold Email Response Tracker,Marketing,Marketing,7.00,cold-email-response-tracker.pdf,high-intent,103
+153,Email Campaign Planner,Marketing,Marketing,7.00,email-campaign-planner.pdf,high-intent,103
+154,Email Sequence Planner,Marketing,Marketing,7.00,email-sequence-planner.pdf,high-intent,103
+155,Landing Page Checklist,Digital business,Digital business,7.00,landing-page-checklist.pdf,high-intent,103
+156,Conversion Tracker Sheet,Marketing,Marketing,6.00,conversion-tracker-sheet.pdf,high-intent,103
+157,Instagram Content Planner,Marketing,Marketing,6.00,instagram-content-planner.pdf,high-intent,103
+158,Lead Follow-Up Tracker,Marketing,Marketing,6.00,lead-follow-up-tracker.pdf,high-intent,103
+159,Lead Nurture Tracker,Marketing,Marketing,6.00,lead-nurture-tracker.pdf,high-intent,103
+160,List Building Tracker,Marketing,Marketing,6.00,list-building-tracker.pdf,high-intent,103
+161,Local SEO Content Planner,Marketing,Marketing,6.00,local-seo-content-planner.pdf,high-intent,103
+162,Offer Testing Tracker,Marketing,Marketing,6.00,offer-testing-tracker.pdf,high-intent,103
+163,Referral Partner Tracker,Marketing,Marketing,6.00,referral-partner-tracker.pdf,high-intent,103
+164,Referral Program Tracker,Marketing,Marketing,6.00,referral-program-tracker.pdf,high-intent,103
+165,Retargeting Offer Planner,Marketing,Marketing,6.00,retargeting-offer-planner.pdf,high-intent,103
+166,Search Intent Planner,Marketing,Marketing,6.00,search-intent-planner.pdf,high-intent,103
+167,Stress Recovery Ladder,Wellness,Wellness,3.00,stress-recovery-ladder.pdf,value,103
+168,Business Expense Audit,Small business,Small business,8.00,business-expense-audit.pdf,high-intent,102
+169,Client Retention Scorecard,Small business,Small business,8.00,client-retention-scorecard.pdf,high-intent,102
+170,Monthly P&L Sheet,Small business,Small business,8.00,monthly-p-l-sheet.pdf,high-intent,102
+171,Owner Salary Calculator,Small business,Small business,8.00,owner-salary-calculator.pdf,high-intent,102
+172,Payroll Planning Sheet,Small business,Small business,8.00,payroll-planning-sheet.pdf,high-intent,102
+173,Side Hustle Profit Snapshot,Small business,Small business,8.00,side-hustle-profit-snapshot.pdf,high-intent,102
+174,Vendor Margin Review,Small business,Small business,8.00,vendor-margin-review.pdf,high-intent,102
+175,Brand Promise Checklist,Marketing,Marketing,6.00,brand-promise-checklist.pdf,high-intent,102
+176,Local SEO Checklist,Marketing,Marketing,6.00,local-seo-checklist.pdf,high-intent,102
+177,Online Service Menu,Digital business,Digital business,8.00,online-service-menu.pdf,high-intent,101
+178,School Drop-Off Flow Planner,Family systems,Family systems,4.00,school-drop-off-flow-planner.pdf,value,101
+179,Password Reset Checklist,Digital life,Digital life,2.00,password-reset-checklist.pdf,value,101
+180,Retail Margin Recovery Sheet,Local business,Local business,8.00,retail-margin-recovery-sheet.pdf,high-intent,100
+181,Neighborhood Emergency Prep,Home ops,Home ops,4.00,neighborhood-emergency-prep.pdf,value,100
+182,Family Budget Recovery,Finance,Finance,8.00,family-budget-recovery.pdf,high-intent,99
+183,Appliance Repair Tracker,Home services,Home services,7.00,appliance-repair-tracker.pdf,high-intent,99
+184,Cleaning Business Daily Planner,Home services,Home services,7.00,cleaning-business-daily-planner.pdf,high-intent,99
+185,Homeowner Repair Planner,Home services,Home services,7.00,homeowner-repair-planner.pdf,high-intent,99
+186,Exterior Paint Planner,Home services,Home services,6.00,exterior-paint-planner.pdf,high-intent,99
+187,Lawn Maintenance Planner,Home services,Home services,6.00,lawn-maintenance-planner.pdf,high-intent,99
+188,House Call Service Planner,Home services,Home services,5.00,house-call-service-planner.pdf,high-intent,99
+189,Kitchen Upgrade Planner,Home services,Home services,5.00,kitchen-upgrade-planner.pdf,high-intent,99
+190,Airbnb Host Operations Sheet,Real estate,Real estate,11.00,airbnb-host-operations-sheet.pdf,high-intent,98
+191,Rental Compliance Log,Real estate,Real estate,11.00,rental-compliance-log.pdf,high-intent,98
+192,Short-Term Rental Setup Sheet,Real estate,Real estate,11.00,short-term-rental-setup-sheet.pdf,high-intent,98
+193,Vacation Rental Cleaning Log,Real estate,Real estate,11.00,vacation-rental-cleaning-log.pdf,high-intent,98
+194,Lease Renewal Timeline,Real estate,Real estate,10.00,lease-renewal-timeline.pdf,high-intent,98
+195,Move-In Condition Sheet,Real estate,Real estate,10.00,move-in-condition-sheet.pdf,high-intent,98
+196,Neighbor Communication Log,Real estate,Real estate,10.00,neighbor-communication-log.pdf,high-intent,98
+197,Property Turnover Check,Real estate,Real estate,10.00,property-turnover-check.pdf,high-intent,98
+198,Tenant Renewal Offer,Real estate,Real estate,10.00,tenant-renewal-offer.pdf,high-intent,98
+199,Tenant Renewal Offer Sheet,Real estate,Real estate,10.00,tenant-renewal-offer-sheet.pdf,high-intent,98
+200,Walkthrough Punch Sheet,Real estate,Real estate,10.00,walkthrough-punch-sheet.pdf,high-intent,98

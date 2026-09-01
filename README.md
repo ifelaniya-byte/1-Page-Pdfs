@@ -13,6 +13,13 @@ Organized catalog of 1,000 product concepts for one-page PDF sales. This is a ca
 
 All PDF assets in this repo have been premiumized into a cleaner, more valuable one-page format while keeping each product to a single-page layout and preserving the core utility of the document.
 
+## Sales storefront
+The repo now includes a storefront layer in [storefront](storefront) with a conversion-first front end: the highest-priority 200 hero products plus curated premium bundles optimized for faster buyer response and clearer sales positioning.
+
+- [storefront/README.md](storefront/README.md) — conversion architecture and sales flow
+- [storefront/hero-products.csv](storefront/hero-products.csv) — curated top 200 buyer-intent products
+- [storefront/premium-bundles.csv](storefront/premium-bundles.csv) — premium pack offers and value bundles
+
 A new market-reach bundle has also been generated in [market-reach-last-month](market-reach-last-month) based on the strongest recent buyer-demand patterns: AI/work overload, money stress, caregiving, healthcare, digital burnout, and small business operations.
 
 An expanded niche bundle was also added in [market-reach-more](market-reach-more) to push reach further into higher-demand categories such as healthcare, finance, real estate, education, local home services, marketing, and creator-business tools.
