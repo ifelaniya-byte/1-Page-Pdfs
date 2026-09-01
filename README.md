@@ -11,6 +11,8 @@ See [OTHER_108_CATEGORIES.md](OTHER_108_CATEGORIES.md) for the full categorized 
 
 Organized catalog of 1,000 product concepts for one-page PDF sales. This is a catalog layer for product ideation and commercialization, not a guarantee of market demand or prior sales.
 
+All PDF assets in this repo have been premiumized into a cleaner, more valuable one-page format while keeping each product to a single-page layout and preserving the core utility of the document.
+
 Total products: 1000
 
 ## Restaurant & Food Service
