@@ -1,5 +1,14 @@
 # 1-Page Product Catalog
 
+## Additional categorized batches beyond the 1,000 catalog assets
+The repo includes 108 companion PDFs outside the 1,000 catalog-derived launch assets. They are grouped into three purpose-built batches:
+
+- Top-selling one-page basics (36): products/
+- Recent trends and current pressure topics (36): recent-trends-2025/
+- Professional utility and business ops docs (36): professional-one-pagers/
+
+See [OTHER_108_CATEGORIES.md](OTHER_108_CATEGORIES.md) for the full categorized list.
+
 Organized catalog of 1,000 product concepts for one-page PDF sales. This is a catalog layer for product ideation and commercialization, not a guarantee of market demand or prior sales.
 
 Total products: 1000
