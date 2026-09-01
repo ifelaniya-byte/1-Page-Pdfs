@@ -15,6 +15,8 @@ All PDF assets in this repo have been premiumized into a cleaner, more valuable 
 
 A new market-reach bundle has also been generated in [market-reach-last-month](market-reach-last-month) based on the strongest recent buyer-demand patterns: AI/work overload, money stress, caregiving, healthcare, digital burnout, and small business operations.
 
+An expanded niche bundle was also added in [market-reach-more](market-reach-more) to push reach further into higher-demand categories such as healthcare, finance, real estate, education, local home services, marketing, and creator-business tools.
+
 Total products: 1000
 
 ## Restaurant & Food Service
