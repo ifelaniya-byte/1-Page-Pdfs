@@ -17,6 +17,8 @@ A new market-reach bundle has also been generated in [market-reach-last-month](m
 
 An expanded niche bundle was also added in [market-reach-more](market-reach-more) to push reach further into higher-demand categories such as healthcare, finance, real estate, education, local home services, marketing, and creator-business tools.
 
+A third high-conversion bundle was also added in [market-reach-more-3](market-reach-more-3), targeting healthcare, legal, operations, senior care, wellness, and urgent local service categories for stronger buyer reach and broader utility.
+
 Total products: 1000
 
 ## Restaurant & Food Service
