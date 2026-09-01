@@ -13,6 +13,8 @@ Organized catalog of 1,000 product concepts for one-page PDF sales. This is a ca
 
 All PDF assets in this repo have been premiumized into a cleaner, more valuable one-page format while keeping each product to a single-page layout and preserving the core utility of the document.
 
+A new market-reach bundle has also been generated in [market-reach-last-month](market-reach-last-month) based on the strongest recent buyer-demand patterns: AI/work overload, money stress, caregiving, healthcare, digital burnout, and small business operations.
+
 Total products: 1000
 
 ## Restaurant & Food Service
