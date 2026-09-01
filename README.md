@@ -19,6 +19,8 @@ An expanded niche bundle was also added in [market-reach-more](market-reach-more
 
 A third high-conversion bundle was also added in [market-reach-more-3](market-reach-more-3), targeting healthcare, legal, operations, senior care, wellness, and urgent local service categories for stronger buyer reach and broader utility.
 
+Competitive pricing guidance is now standardized across the catalog and market bundles. Higher-value offerings (legal, healthcare, specialized operations) use stronger price points, while personal utility and general-use products stay in a lower, more competitive range for faster conversion.
+
 Total products: 1000
 
 ## Restaurant & Food Service
