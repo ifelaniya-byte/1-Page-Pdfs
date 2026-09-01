@@ -1,101 +1,101 @@
 number,category,product,price
-901,Event & Hospitality Ops,Event Setup Checklist,12.49
-902,Event & Hospitality Ops,Guest Check-In Planner,11.24
-903,Event & Hospitality Ops,Vendor Form,12.49
-904,Event & Hospitality Ops,Schedule Dashboard,13.74
+901,Event & Hospitality Ops,Event Setup Checklist,14.99
+902,Event & Hospitality Ops,Guest Check-In Planner,14.99
+903,Event & Hospitality Ops,Vendor Form,14.99
+904,Event & Hospitality Ops,Schedule Dashboard,14.99
 905,Event & Hospitality Ops,Crew Log,14.99
-906,Event & Hospitality Ops,Venue Review,18.74
-907,Event & Hospitality Ops,Run Sheet Guide,17.49
-908,Event & Hospitality Ops,Load-In Tracker,18.74
-909,Event & Hospitality Ops,Load-Out Sheet,19.99
-910,Event & Hospitality Ops,Soundcheck Template,21.24
-911,Event & Hospitality Ops,Volunteer Checklist,24.99
-912,Event & Hospitality Ops,Cash Box Planner,23.74
-913,Event & Hospitality Ops,Food Service Form,24.99
-914,Event & Hospitality Ops,Backup Plan Dashboard,26.24
-915,Event & Hospitality Ops,Event Flow Log,27.49
-916,Event & Hospitality Ops,Staffing Review,31.24
-917,Event & Hospitality Ops,Setup Guide,29.99
-918,Event & Hospitality Ops,Breakdown Tracker,31.24
-919,Event & Hospitality Ops,Event Setup Sheet,9.99
-920,Event & Hospitality Ops,Guest Check-In Template,11.24
+906,Event & Hospitality Ops,Venue Review,14.99
+907,Event & Hospitality Ops,Run Sheet Guide,14.99
+908,Event & Hospitality Ops,Load-In Tracker,14.99
+909,Event & Hospitality Ops,Load-Out Sheet,14.99
+910,Event & Hospitality Ops,Soundcheck Template,14.99
+911,Event & Hospitality Ops,Volunteer Checklist,14.99
+912,Event & Hospitality Ops,Cash Box Planner,14.99
+913,Event & Hospitality Ops,Food Service Form,15.99
+914,Event & Hospitality Ops,Backup Plan Dashboard,14.99
+915,Event & Hospitality Ops,Event Flow Log,14.99
+916,Event & Hospitality Ops,Staffing Review,14.99
+917,Event & Hospitality Ops,Setup Guide,14.99
+918,Event & Hospitality Ops,Breakdown Tracker,14.99
+919,Event & Hospitality Ops,Event Setup Sheet,14.99
+920,Event & Hospitality Ops,Guest Check-In Template,14.99
 921,Event & Hospitality Ops,Vendor Checklist,14.99
-922,Event & Hospitality Ops,Schedule Planner,13.74
+922,Event & Hospitality Ops,Schedule Planner,14.99
 923,Event & Hospitality Ops,Crew Form,14.99
-924,Event & Hospitality Ops,Venue Dashboard,16.24
-925,Event & Hospitality Ops,Run Sheet Log,17.49
-926,Event & Hospitality Ops,Load-In Review,21.24
-927,Event & Hospitality Ops,Load-Out Guide,19.99
-928,Event & Hospitality Ops,Soundcheck Tracker,21.24
-929,Event & Hospitality Ops,Volunteer Sheet,22.49
-930,Event & Hospitality Ops,Cash Box Template,23.74
-931,Event & Hospitality Ops,Food Service Checklist,27.49
-932,Event & Hospitality Ops,Backup Plan Planner,26.24
-933,Event & Hospitality Ops,Event Flow Form,27.49
-934,Event & Hospitality Ops,Staffing Dashboard,28.74
-935,Event & Hospitality Ops,Setup Log,29.99
-936,Event & Hospitality Ops,Breakdown Review,33.74
-937,Event & Hospitality Ops,Event Setup Guide,9.99
-938,Event & Hospitality Ops,Guest Check-In Tracker,11.24
-939,Event & Hospitality Ops,Vendor Sheet,12.49
-940,Event & Hospitality Ops,Schedule Template,13.74
-941,Event & Hospitality Ops,Crew Checklist,17.49
-942,Event & Hospitality Ops,Venue Planner,16.24
-943,Event & Hospitality Ops,Run Sheet Form,17.49
-944,Event & Hospitality Ops,Load-In Dashboard,18.74
-945,Event & Hospitality Ops,Load-Out Log,19.99
-946,Event & Hospitality Ops,Soundcheck Review,23.74
-947,Event & Hospitality Ops,Volunteer Guide,22.49
-948,Event & Hospitality Ops,Cash Box Tracker,23.74
-949,Event & Hospitality Ops,Food Service Sheet,24.99
-950,Event & Hospitality Ops,Backup Plan Template,26.24
-951,Fitness & Coaching,Client Intake Checklist,29.99
-952,Fitness & Coaching,Workout Sheet,28.74
-953,Fitness & Coaching,Progress Template,29.99
-954,Fitness & Coaching,Nutrition Dashboard,31.24
-955,Fitness & Coaching,Session Planner,9.99
-956,Fitness & Coaching,Recovery Guide,13.74
-957,Fitness & Coaching,Assessments Form,12.49
-958,Fitness & Coaching,Membership Tracker,13.74
+924,Event & Hospitality Ops,Venue Dashboard,14.99
+925,Event & Hospitality Ops,Run Sheet Log,14.99
+926,Event & Hospitality Ops,Load-In Review,14.99
+927,Event & Hospitality Ops,Load-Out Guide,14.99
+928,Event & Hospitality Ops,Soundcheck Tracker,14.99
+929,Event & Hospitality Ops,Volunteer Sheet,14.99
+930,Event & Hospitality Ops,Cash Box Template,14.99
+931,Event & Hospitality Ops,Food Service Checklist,15.99
+932,Event & Hospitality Ops,Backup Plan Planner,14.99
+933,Event & Hospitality Ops,Event Flow Form,14.99
+934,Event & Hospitality Ops,Staffing Dashboard,14.99
+935,Event & Hospitality Ops,Setup Log,14.99
+936,Event & Hospitality Ops,Breakdown Review,14.99
+937,Event & Hospitality Ops,Event Setup Guide,14.99
+938,Event & Hospitality Ops,Guest Check-In Tracker,14.99
+939,Event & Hospitality Ops,Vendor Sheet,14.99
+940,Event & Hospitality Ops,Schedule Template,14.99
+941,Event & Hospitality Ops,Crew Checklist,14.99
+942,Event & Hospitality Ops,Venue Planner,14.99
+943,Event & Hospitality Ops,Run Sheet Form,14.99
+944,Event & Hospitality Ops,Load-In Dashboard,14.99
+945,Event & Hospitality Ops,Load-Out Log,14.99
+946,Event & Hospitality Ops,Soundcheck Review,14.99
+947,Event & Hospitality Ops,Volunteer Guide,14.99
+948,Event & Hospitality Ops,Cash Box Tracker,14.99
+949,Event & Hospitality Ops,Food Service Sheet,15.99
+950,Event & Hospitality Ops,Backup Plan Template,14.99
+951,Fitness & Coaching,Client Intake Checklist,14.99
+952,Fitness & Coaching,Workout Sheet,14.99
+953,Fitness & Coaching,Progress Template,14.99
+954,Fitness & Coaching,Nutrition Dashboard,14.99
+955,Fitness & Coaching,Session Planner,14.99
+956,Fitness & Coaching,Recovery Guide,14.99
+957,Fitness & Coaching,Assessments Form,14.99
+958,Fitness & Coaching,Membership Tracker,14.99
 959,Fitness & Coaching,Coach Log,14.99
-960,Fitness & Coaching,Challenge Review,16.24
-961,Fitness & Coaching,Goal Checklist,19.99
-962,Fitness & Coaching,Mobility Sheet,18.74
-963,Fitness & Coaching,Strength Template,19.99
-964,Fitness & Coaching,Conditioning Dashboard,21.24
-965,Fitness & Coaching,Training Planner,22.49
-966,Fitness & Coaching,Plan Guide,26.24
-967,Fitness & Coaching,Follow-Up Form,24.99
-968,Fitness & Coaching,Movement Tracker,26.24
-969,Fitness & Coaching,Performance Log,27.49
-970,Fitness & Coaching,Client Intake Review,28.74
-971,Fitness & Coaching,Workout Checklist,32.49
-972,Fitness & Coaching,Progress Sheet,31.24
-973,Fitness & Coaching,Nutrition Template,9.99
-974,Fitness & Coaching,Session Dashboard,11.24
-975,Fitness & Coaching,Recovery Planner,12.49
-976,Fitness & Coaching,Assessments Guide,16.24
+960,Fitness & Coaching,Challenge Review,14.99
+961,Fitness & Coaching,Goal Checklist,14.99
+962,Fitness & Coaching,Mobility Sheet,14.99
+963,Fitness & Coaching,Strength Template,14.99
+964,Fitness & Coaching,Conditioning Dashboard,14.99
+965,Fitness & Coaching,Training Planner,15.99
+966,Fitness & Coaching,Plan Guide,14.99
+967,Fitness & Coaching,Follow-Up Form,14.99
+968,Fitness & Coaching,Movement Tracker,14.99
+969,Fitness & Coaching,Performance Log,14.99
+970,Fitness & Coaching,Client Intake Review,14.99
+971,Fitness & Coaching,Workout Checklist,14.99
+972,Fitness & Coaching,Progress Sheet,14.99
+973,Fitness & Coaching,Nutrition Template,14.99
+974,Fitness & Coaching,Session Dashboard,14.99
+975,Fitness & Coaching,Recovery Planner,14.99
+976,Fitness & Coaching,Assessments Guide,14.99
 977,Fitness & Coaching,Membership Form,14.99
-978,Fitness & Coaching,Coach Tracker,16.24
-979,Fitness & Coaching,Challenge Log,17.49
-980,Fitness & Coaching,Goal Review,18.74
-981,Fitness & Coaching,Mobility Checklist,22.49
-982,Fitness & Coaching,Strength Sheet,21.24
-983,Fitness & Coaching,Conditioning Template,22.49
-984,Fitness & Coaching,Training Dashboard,23.74
-985,Fitness & Coaching,Plan Planner,24.99
-986,Fitness & Coaching,Follow-Up Guide,28.74
-987,Fitness & Coaching,Movement Form,27.49
-988,Fitness & Coaching,Performance Tracker,28.74
-989,Fitness & Coaching,Client Intake Log,29.99
-990,Fitness & Coaching,Workout Review,31.24
-991,Fitness & Coaching,Progress Checklist,12.49
-992,Fitness & Coaching,Nutrition Sheet,11.24
-993,Fitness & Coaching,Session Template,12.49
-994,Fitness & Coaching,Recovery Dashboard,13.74
+978,Fitness & Coaching,Coach Tracker,14.99
+979,Fitness & Coaching,Challenge Log,14.99
+980,Fitness & Coaching,Goal Review,14.99
+981,Fitness & Coaching,Mobility Checklist,14.99
+982,Fitness & Coaching,Strength Sheet,14.99
+983,Fitness & Coaching,Conditioning Template,14.99
+984,Fitness & Coaching,Training Dashboard,15.99
+985,Fitness & Coaching,Plan Planner,14.99
+986,Fitness & Coaching,Follow-Up Guide,14.99
+987,Fitness & Coaching,Movement Form,14.99
+988,Fitness & Coaching,Performance Tracker,14.99
+989,Fitness & Coaching,Client Intake Log,14.99
+990,Fitness & Coaching,Workout Review,14.99
+991,Fitness & Coaching,Progress Checklist,14.99
+992,Fitness & Coaching,Nutrition Sheet,14.99
+993,Fitness & Coaching,Session Template,14.99
+994,Fitness & Coaching,Recovery Dashboard,14.99
 995,Fitness & Coaching,Assessments Planner,14.99
-996,Fitness & Coaching,Membership Guide,18.74
-997,Fitness & Coaching,Coach Form,17.49
-998,Fitness & Coaching,Challenge Tracker,18.74
-999,Fitness & Coaching,Goal Log,19.99
-1000,Fitness & Coaching,Mobility Review,21.24
+996,Fitness & Coaching,Membership Guide,14.99
+997,Fitness & Coaching,Coach Form,14.99
+998,Fitness & Coaching,Challenge Tracker,14.99
+999,Fitness & Coaching,Goal Log,14.99
+1000,Fitness & Coaching,Mobility Review,14.99
